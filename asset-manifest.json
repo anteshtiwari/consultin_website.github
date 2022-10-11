@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.34a5d34c.css",
+    "main.js": "/static/js/main.3bde1128.js",
+    "static/js/787.9c431db2.chunk.js": "/static/js/787.9c431db2.chunk.js",
+    "static/media/Rectangle 60.svg": "/static/media/Rectangle 60.14fb8a9e9a87194acb06680466c73442.svg",
+    "static/media/consultin-logo.jpeg": "/static/media/consultin-logo.0c808109efc20bc37436.jpeg",
+    "index.html": "/index.html",
+    "main.34a5d34c.css.map": "/static/css/main.34a5d34c.css.map",
+    "main.3bde1128.js.map": "/static/js/main.3bde1128.js.map",
+    "787.9c431db2.chunk.js.map": "/static/js/787.9c431db2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34a5d34c.css",
+    "static/js/main.3bde1128.js"
+  ]
+}
